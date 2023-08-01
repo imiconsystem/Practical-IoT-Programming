@@ -1,2 +1,2 @@
-# Practical-IoT-Programming
-เรียนรู้การโปรแกรม IoT (Internet of Things) เบื้องต้นด้วย ESP32 NodeMCU
+# ชุดเรียนรู้การโปรแกรม IoT (Practical IoT Programming)
+เรียนรู้การโปรแกรม IoT เชิงปฏิบัติด้วย ESP32 NodeMCU พร้อมอุปกรณ์และคู่มือใบงานแนว “Keep It Simple” เรียบง่าย ใช้เวลาเรียนน้อย เข้าถึงรวดเร็ว
