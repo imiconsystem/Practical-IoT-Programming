@@ -1,7 +1,9 @@
 # ชุดเรียนรู้การโปรแกรม IoT (Practical IoT Programming)
 เรียนรู้การโปรแกรม IoT เชิงปฏิบัติด้วย ESP32 NodeMCU พร้อมอุปกรณ์และคู่มือใบงานแนว “Keep It Simple” เรียบง่าย ใช้เวลาเรียนน้อย เข้าถึงรวดเร็ว
+![image](https://github.com/imiconsystem/Practical-IoT-Programming/assets/16095922/be72b4cd-bd30-4450-bd8a-006e6cec6456)
 
-Arduino example sketches 
+
+## Arduino example sketches 
 
 * [Exp 1 - Program Structure](https://github.com/imiconsystem/Practical-IoT-Programming/tree/main/01-Program-Structure)
 * [Exp 2 - Serial Monitor](https://github.com/imiconsystem/Practical-IoT-Programming/tree/main/02-Serial-Monitor)
